@@ -50,7 +50,7 @@ at least 21 years old of Pima Indian heritage.
 
 ---
 
-### **Project No 2: Title: Predicting Diabetes in Pima Indian Patients using Python**
+## **Project No 2: Title: Predicting Diabetes in Pima Indian Patients using Python**
 - The "Predicting Diabetes in Pima Indian Patients" project is aimed at developing a machine learning model that can predict the likelihood of diabetes in Pima Indian female patients who are at least 21 years old. This model uses diagnostic measurements to provide personalized predictions and assist in early diagnosis and preventive healthcare measures.
 
 #### **Exploratory Data Analysis (EDA):** 
